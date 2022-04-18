@@ -19,6 +19,7 @@
   },
   "devDependencies": {
     "@quasar/app-webpack": "^3.0.0",
+    "quasar-app-extension-tailwindcss": "^2.0.6",
     "tailwindcss": "^3.0.24",
     "workbox-webpack-plugin": "^6.0.0"
   },

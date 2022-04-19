@@ -1,5 +1,5 @@
 <template>
-  <main :class="theme">
+  <main class="dark">
     <section class="min-h-screen h-auto dark:bg-blacks">
       <Navbar />
       <InputBox />
@@ -16,9 +16,9 @@ if (
   window.matchMedia &&
   window.matchMedia("(prefers-color-scheme: dark)").matches
 ) {
-  theme.value = "dark";
-} else {
   theme.value = "light";
+} else {
+  theme.value = "dark";
 }
 window
   .matchMedia("(prefers-color-scheme: dark)")

@@ -54,7 +54,11 @@ yarn quasar dev
 
 </center>
 
+## <b> Light Mode </b>
 
+![Vue + Tailwindcss logo](https://linkpicture.com/q/screencapture-quasar-to-do-app-vercel-app-2022-04-19-17_51_29.png)
+
+## <b> Dark Mode </b>
 
 You can build
 

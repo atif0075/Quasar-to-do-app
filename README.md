@@ -1,24 +1,64 @@
-# Quasar App (final-todo)
+![Quasar Framework logo](https://cdn.quasar.dev/logo-v2/header.png)
 
-A Quasar Project
+# Quasar Framework
 
-## Install the dependencies
-```bash
-yarn
-# or
+> Build high-performance VueJS user interfaces in record time: responsive Single Page Apps, SSR Apps, PWAs, Browser extensions, Hybrid Mobile Apps and Electron Apps. If you want, all using the same codebase!
+
+<img src="https://img.shields.io/npm/v/quasar?label=quasar"> <img src="https://img.shields.io/npm/v/%40quasar/app-webpack?label=@quasar/app-webpack"> <img src="https://img.shields.io/npm/v/%40quasar/app-vite?label=@quasar/app-vite"> <img src="https://img.shields.io/npm/v/%40quasar/cli?label=@quasar/cli"> <img src="https://img.shields.io/npm/v/%40quasar/extras.svg?label=@quasar/extras"> <img src="https://img.shields.io/npm/v/%40quasar/icongenie.svg?label=@quasar/icongenie"> <img src="https://img.shields.io/npm/v/%40quasar/vite-plugin.svg?label=@quasar/vite-plugin">
+
+## Documentation of Quasar
+
+> Head on to the Quasar Framework official website: [https://quasar.dev](https://quasar.dev)
+
+# Vue 3 + Tailwind CSS ✔
+
+![Vue + Tailwindcss logo](https://miro.medium.com/max/1400/1*DEUQ-Hp7frbQDcaNK7rL3A.png)
+This project includes:
+
+- [Quasar](https://quasar.dev/)
+- [Vue 3](https://vuejs.org/guide/introduction.html)
+- [Tailwind CSS](https://tailwindcss.com/docs/configuration)
+- [Vue Router](https://github.com/vuejs/router)
+
+### Getting Started
+
+```
+npx degit atif0075/Quasar-to-do-app my-todo-app
+cd my-todo-app
+```
+
+### Installation Commands
+
+```
 npm install
+npm quasar dev
 ```
 
-### Start the app in development mode (hot-code reloading, error reporting, etc.)
-```bash
-quasar dev
+or
+
+```
+yarn install
+yarn quasar dev
 ```
 
+## Overview and Screenshots
 
-### Build the app for production
-```bash
-quasar build
-```
+> [Quasar Todo](https://quasar-to-do-app.vercel.app/) is a web based app build with quasar framework.You can build
 
-### Customize the configuration
-See [Configuring quasar.config.js](https://v2.quasar.dev/quasar-cli-webpack/quasar-config-js).
+- SPA (Single Page App)
+- SSR (Server Side Rendering)
+- PWA (Progreesive Web App)
+- Browser Extension (Chrome & Firefox)
+- Electron App (Windows, Linux & MacOS)
+- Mobile App (Andriod & iOS)
+
+  > We provide a frictionless developer experience to take care of the hard things: deploying instantly, scaling automatically, and serving personalized content around the globe.
+  > We make it easy for frontend teams to develop, preview, and ship delightful user experiences, where performance is the default.
+
+## Deployed on Vercel
+
+> [Vercel](https://vercel.com/) is a platform for frontend frameworks and static sites, built to integrate with your headless content, commerce, or database.
+> It provide a frictionless developer experience to take care of the hard things: deploying instantly, scaling automatically, and serving personalized content around the globe.
+> It make it easy for frontend teams to develop, preview, and ship delightful user experiences, where performance is the default.
+
+![Deployed on vercel](https://vercel.com/docs-proxy/static/docs/concepts/git/git-push.png)

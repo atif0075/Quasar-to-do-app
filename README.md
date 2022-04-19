@@ -19,6 +19,8 @@ This project includes:
 - [Vue 3](https://vuejs.org/guide/introduction.html)
 - [Tailwind CSS](https://tailwindcss.com/docs/configuration)
 - [Vue Router](https://github.com/vuejs/router)
+- [Localbase]()
+- [Vue 3 Date Picker]()
 
 ### Getting Started
 
@@ -43,17 +45,30 @@ yarn quasar dev
 
 ## Overview and Screenshots
 
-> [Quasar Todo](https://quasar-to-do-app.vercel.app/) is a web based app build with quasar framework.You can build
+> [Quasar Todo](https://quasar-to-do-app.vercel.app/) is a web based app build with quasar framework.You can add your task which you want to do and it will store it in local data of browser.For this purpose i used <b> Localbase </b> library build on top of <b>Indexed DB.</b>Furthur more you can set date easily by <b> Vue 3 Date Picker </b> library. <br/>
+> You can remove you todo by clicking on check icon or double click on the todo.
 
-- SPA (Single Page App)
-- SSR (Server Side Rendering)
-- PWA (Progreesive Web App)
-- Browser Extension (Chrome & Firefox)
-- Electron App (Windows, Linux & MacOS)
-- Mobile App (Andriod & iOS)
+<center>
 
-  > We provide a frictionless developer experience to take care of the hard things: deploying instantly, scaling automatically, and serving personalized content around the globe.
-  > We make it easy for frontend teams to develop, preview, and ship delightful user experiences, where performance is the default.
+> <b>Screenshots !!!</b>
+
+</center>
+
+
+
+You can build
+
+> - SPA (Single Page App)
+> - SSR (Server Side Rendering)
+> - PWA (Progreesive Web App)
+> - Browser Extension (Chrome & Firefox)
+> - Electron App (Windows, Linux & MacOS)
+> - Mobile App (Andriod & iOS)
+
+with same code which u written in for web in Vue.js
+
+> We provide a frictionless developer experience to take care of the hard things: deploying instantly, scaling automatically, and serving personalized content around the globe.
+> We make it easy for frontend teams to develop, preview, and ship delightful user experiences, where performance is the default.
 
 ## Deployed on Vercel
 
@@ -61,4 +76,4 @@ yarn quasar dev
 > It provide a frictionless developer experience to take care of the hard things: deploying instantly, scaling automatically, and serving personalized content around the globe.
 > It make it easy for frontend teams to develop, preview, and ship delightful user experiences, where performance is the default.
 
-![Deployed on vercel](https://vercel.com/docs-proxy/static/docs/concepts/git/git-push.png)
+![Vercel](https://vercel.com/docs-proxy/static/docs/concepts/git/git-push.png)

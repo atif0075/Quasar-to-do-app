@@ -54,11 +54,21 @@ yarn quasar dev
 
 </center>
 
+# <b> Modes </b>
+
+It will automatically detect you system theme and eneable that theme for you on website
+
 ## <b> Light Mode </b>
 
-![Vue + Tailwindcss logo](https://linkpicture.com/q/screencapture-quasar-to-do-app-vercel-app-2022-04-19-17_51_29.png)
+![Light Mode](https://linkpicture.com/q/screencapture-quasar-to-do-app-vercel-app-2022-04-19-17_51_29.png)
 
 ## <b> Dark Mode </b>
+
+![DarK Mode](https://linkpicture.com/q/screencapture-localhost-3000-2022-04-19-18_05_42.png)
+
+# <b> PWA </b>
+
+This is PWA, means you can downlaod it as a web app in your browser
 
 You can build
 
